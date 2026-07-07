@@ -1,0 +1,75 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Soham Kamat - AI and Data Science Developer</title>
+  <desc id="desc">A dark professional technology banner with neural network lines, code panels, and the name Soham Kamat.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05070D"/>
+      <stop offset="0.45" stop-color="#07111F"/>
+      <stop offset="1" stop-color="#061B24"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="185" y1="65" x2="1092" y2="308" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#101827" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#0A1220" stop-opacity="0.72"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.13 0 0 0 0 0.83 0 0 0 0 0.93 0 0 0 0.55 0"/>
+      <feBlend in="SourceGraphic"/>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#94A3B8" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="360" rx="0" fill="url(#bg)"/>
+  <rect width="1280" height="360" fill="url(#grid)"/>
+  <path d="M0 287C179 235 296 248 462 282C642 319 785 303 960 246C1104 199 1193 197 1280 220V360H0V287Z" fill="#0B2530" fill-opacity="0.52"/>
+  <path d="M71 72C180 126 270 125 363 75C477 13 596 52 676 131C792 247 887 224 1000 131C1102 46 1199 42 1280 74" stroke="url(#accent)" stroke-opacity="0.24" stroke-width="2"/>
+  <path d="M97 252C219 189 348 193 468 248C604 311 719 301 833 227C970 138 1111 128 1229 179" stroke="url(#accent)" stroke-opacity="0.16" stroke-width="2"/>
+  <g opacity="0.72" filter="url(#glow)">
+    <circle cx="189" cy="104" r="5" fill="#22D3EE"/>
+    <circle cx="364" cy="75" r="4" fill="#2DD4BF"/>
+    <circle cx="675" cy="131" r="5" fill="#38BDF8"/>
+    <circle cx="999" cy="131" r="5" fill="#2DD4BF"/>
+    <circle cx="468" cy="248" r="4" fill="#38BDF8"/>
+    <circle cx="833" cy="227" r="4" fill="#22D3EE"/>
+  </g>
+  <g transform="translate(68 73)">
+    <rect width="292" height="210" rx="18" fill="url(#panel)" stroke="#1E293B"/>
+    <circle cx="31" cy="28" r="5" fill="#EF4444"/>
+    <circle cx="50" cy="28" r="5" fill="#F59E0B"/>
+    <circle cx="69" cy="28" r="5" fill="#22C55E"/>
+    <text x="28" y="76" fill="#E2E8F0" font-family="SFMono-Regular, Consolas, monospace" font-size="18">model.fit(data)</text>
+    <text x="28" y="111" fill="#67E8F9" font-family="SFMono-Regular, Consolas, monospace" font-size="18">predict_next()</text>
+    <text x="28" y="146" fill="#A7F3D0" font-family="SFMono-Regular, Consolas, monospace" font-size="18">secure_api()</text>
+    <text x="28" y="181" fill="#CBD5E1" font-family="SFMono-Regular, Consolas, monospace" font-size="18">ship_dashboard()</text>
+  </g>
+  <g transform="translate(924 70)" opacity="0.9">
+    <rect width="286" height="214" rx="18" fill="url(#panel)" stroke="#1E293B"/>
+    <path d="M57 154V78M57 78L122 117M57 78L122 42M122 117L187 78M122 117V192M187 78V154M187 78L122 42" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#E2E8F0">
+      <circle cx="57" cy="78" r="8"/>
+      <circle cx="57" cy="154" r="8"/>
+      <circle cx="122" cy="42" r="8"/>
+      <circle cx="122" cy="117" r="8"/>
+      <circle cx="122" cy="192" r="8"/>
+      <circle cx="187" cy="78" r="8"/>
+      <circle cx="187" cy="154" r="8"/>
+    </g>
+  </g>
+  <g transform="translate(420 100)">
+    <text x="0" y="42" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="0">Soham Kamat</text>
+    <text x="2" y="86" fill="url(#accent)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">AI and Data Science Developer</text>
+    <text x="2" y="129" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21">Machine Learning | NLP | Cybersecurity | Data Products</text>
+    <rect x="3" y="158" width="88" height="30" rx="15" fill="#0F766E" fill-opacity="0.2" stroke="#2DD4BF" stroke-opacity="0.45"/>
+    <text x="23" y="179" fill="#A7F3D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Python</text>
+    <rect x="104" y="158" width="116" height="30" rx="15" fill="#0369A1" fill-opacity="0.22" stroke="#38BDF8" stroke-opacity="0.45"/>
+    <text x="125" y="179" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">ML Systems</text>
+    <rect x="233" y="158" width="114" height="30" rx="15" fill="#134E4A" fill-opacity="0.25" stroke="#2DD4BF" stroke-opacity="0.45"/>
+    <text x="253" y="179" fill="#CCFBF1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Dashboards</text>
+  </g>
+</svg>
