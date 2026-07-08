@@ -57,31 +57,20 @@ I am a B.Tech Artificial Intelligence and Data Science student at K.J. Somaiya S
 | [MedSimplify](https://github.com/sohamkamat28/medlife) | Simplifies medical reports by extracting text from images, detecting biomedical entities, and mapping terms to patient-friendly definitions. | Python, Dash, Tesseract OCR, Hugging Face, Pandas |
 | [StockSense](https://github.com/sohamkamat28/StockSense) | Predicts next-day stock movement with an ID3-style decision tree, technical indicators, backtesting, confidence scoring, and D3 visual explanations. | Flask, scikit-learn, yfinance, D3.js, HTML/CSS/JS |
 | [SpotifyDashboard](https://github.com/sohamkamat28/SpotifyDashboard) | Interactive music analytics dashboard for 2,000 Spotify tracks with clustering, PCA, EDA, trends, and genre analysis. | Streamlit, Plotly, Pandas, scikit-learn |
+| [Personality Test](https://github.com/sohamkamat28/personality-test) | Web-based personality assessment portal with a clean test flow and deployed Next.js experience. | Next.js, React, MongoDB, JavaScript |
 | CreditWise Loan System | Loan approval ML pipeline with EDA, feature engineering, KNN, Logistic Regression, Naive Bayes, and model evaluation. | Python, Pandas, scikit-learn, Jupyter |
-| SENTINEL | AI-driven zombie API security platform for banks, with eBPF traffic discovery, risk scoring, pre-zombie prediction, virtual patching, and phased decommissioning. | Python, FastAPI, Isolation Forest, NetworkX, AWS Bedrock |
 | Secure Banking MITM Simulation | Demonstrates insecure communication attacks, Diffie-Hellman key exchange, AES-256-CBC encryption, SHA-256 derivation, and socket programming. | Python, Cryptography, Sockets |
 
 ---
 
-## Project cards
+## Selected repositories
 
-<p align="center">
-  <a href="https://github.com/sohamkamat28/medlife">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohamkamat28&repo=medlife&theme=github_dark&hide_border=true&border_radius=8" alt="MedSimplify repository card" />
-  </a>
-  <a href="https://github.com/sohamkamat28/StockSense">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohamkamat28&repo=StockSense&theme=github_dark&hide_border=true&border_radius=8" alt="StockSense repository card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sohamkamat28/SpotifyDashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohamkamat28&repo=SpotifyDashboard&theme=github_dark&hide_border=true&border_radius=8" alt="SpotifyDashboard repository card" />
-  </a>
-  <a href="https://github.com/sohamkamat28/personality-test">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohamkamat28&repo=personality-test&theme=github_dark&hide_border=true&border_radius=8" alt="Personality test repository card" />
-  </a>
-</p>
+| Repository | Live demo |
+| --- | --- |
+| [MedSimplify](https://github.com/sohamkamat28/medlife) | [medlife-topaz.vercel.app](https://medlife-topaz.vercel.app) |
+| [StockSense](https://github.com/sohamkamat28/StockSense) | [stocksense-rho-ochre.vercel.app](https://stocksense-rho-ochre.vercel.app) |
+| [SpotifyDashboard](https://github.com/sohamkamat28/SpotifyDashboard) | [spotify-dashboard-one.vercel.app](https://spotify-dashboard-one.vercel.app) |
+| [Personality Test](https://github.com/sohamkamat28/personality-test) | [personality-test-eta-seven.vercel.app](https://personality-test-eta-seven.vercel.app) |
 
 ---
 
@@ -91,26 +80,18 @@ I am a B.Tech Artificial Intelligence and Data Science student at K.J. Somaiya S
 Machine Learning      -> classification, clustering, PCA, backtesting, feature engineering
 NLP and OCR           -> biomedical NER, report simplification, glossary lookup, Tesseract
 Data Products         -> Streamlit, Dash, Plotly, Power BI, interactive analytics
-Security Engineering  -> API risk scoring, MITM simulation, AES-256, Diffie-Hellman, eBPF ideas
+Security Engineering  -> MITM simulation, AES-256, Diffie-Hellman, secure communication demos
 Full Stack            -> Flask, FastAPI, React, Next.js, Vite, MongoDB, Supabase
 ```
 
 ---
 
-## GitHub snapshot
+## Build focus
 
-<p align="center">
-  <img height="172" src="https://github-readme-stats.vercel.app/api?username=sohamkamat28&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="Soham Kamat GitHub stats" />
-  <img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamkamat28&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sohamkamat28&theme=github-dark-blue&hide_border=true&border_radius=8" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamkamat28&theme=react-dark&hide_border=true&radius=8" alt="Contribution activity graph" />
-</p>
+- AI products that explain decisions clearly instead of acting like black boxes.
+- Data dashboards that turn raw datasets into filters, charts, clusters, and usable insights.
+- Healthcare NLP/OCR workflows that make technical reports easier for people to understand.
+- Full-stack web apps with clean deployment, useful interfaces, and reliable data flow.
 
 ---
 
@@ -118,7 +99,7 @@ Full Stack            -> Flask, FastAPI, React, Next.js, Vite, MongoDB, Supabase
 
 - Agentic AI systems that combine retrieval, tool use, reasoning, and human approval.
 - Applied NLP for healthcare and education workflows.
-- Secure API lifecycle intelligence for banking and enterprise systems.
+- Secure communication, applied cryptography, and practical cybersecurity fundamentals.
 - Cleaner visual storytelling for ML models, dashboards, and decision paths.
 
 ---
