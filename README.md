@@ -12,11 +12,11 @@
 
 ## About me
 
-I am a B.Tech Artificial Intelligence and Data Science student at K.J. Somaiya School of Engineering, Mumbai, building AI systems, ML dashboards, healthcare NLP tools, and security-focused prototypes.
+I am a B.Tech Artificial Intelligence and Data Science student at K.J. Somaiya School of Engineering, Mumbai, building AI systems, ML dashboards, healthcare NLP tools, and data-driven products.
 
-- Current focus: applied machine learning, NLP/OCR, explainable decision systems, and AI-assisted cybersecurity.
+- Current focus: applied machine learning, NLP/OCR, explainable decision systems, and real-world AI workflows.
 - Strongest stack: Python, scikit-learn, Pandas, Streamlit, Dash, Flask, FastAPI, React, Next.js, SQL, and data visualization.
-- Academic signal: 9.97 CGPA in AI and Data Science, with project work across ML, BI, secure systems, and full-stack products.
+- Academic signal: 9.97 CGPA in AI and Data Science, with project work across ML, BI, analytics, and product-focused AI systems.
 - Builder mode: I like turning raw datasets, reports, and system logs into products people can actually use.
 
 ---
@@ -58,7 +58,7 @@ I am a B.Tech Artificial Intelligence and Data Science student at K.J. Somaiya S
 | [StockSense](https://github.com/sohamkamat28/StockSense) | Predicts next-day stock movement with an ID3-style decision tree, technical indicators, backtesting, confidence scoring, and D3 visual explanations. | Flask, scikit-learn, yfinance, D3.js, HTML/CSS/JS |
 | [SpotifyDashboard](https://github.com/sohamkamat28/SpotifyDashboard) | Interactive music analytics dashboard for 2,000 Spotify tracks with clustering, PCA, EDA, trends, and genre analysis. | Streamlit, Plotly, Pandas, scikit-learn |
 | [Personality Test](https://github.com/sohamkamat28/personality-test) | Web-based personality assessment portal with a clean test flow and deployed Next.js experience. | Next.js, React, MongoDB, JavaScript |
-| CreditWise Loan System | Loan approval ML pipeline with EDA, feature engineering, KNN, Logistic Regression, Naive Bayes, and model evaluation. | Python, Pandas, scikit-learn, Jupyter |
+| [CreditWise Loan System](https://github.com/sohamkamat28/CreditWise-Loan-System) | Loan approval ML pipeline with EDA, feature engineering, KNN, Logistic Regression, Naive Bayes, and model evaluation. | Python, Pandas, scikit-learn, Jupyter |
 | Secure Banking MITM Simulation | Demonstrates insecure communication attacks, Diffie-Hellman key exchange, AES-256-CBC encryption, SHA-256 derivation, and socket programming. | Python, Cryptography, Sockets |
 
 ---
@@ -78,11 +78,10 @@ I am a B.Tech Artificial Intelligence and Data Science student at K.J. Somaiya S
 
 - Agentic AI systems that combine retrieval, tool use, reasoning, and human approval.
 - Applied NLP for healthcare and education workflows.
-- Secure communication, applied cryptography, and practical cybersecurity fundamentals.
 - Cleaner visual storytelling for ML models, dashboards, and decision paths.
 
 ---
 
 <p align="center">
-  <b>Open to AI, data science, full-stack, and cybersecurity collaborations.</b>
+  <b>Open to AI, data science, and machine learning collaborations.</b>
 </p>
