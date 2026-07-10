@@ -74,27 +74,6 @@ I am a B.Tech Artificial Intelligence and Data Science student at K.J. Somaiya S
 
 ---
 
-## AI and data science map
-
-```text
-Machine Learning      -> classification, clustering, PCA, backtesting, feature engineering
-NLP and OCR           -> biomedical NER, report simplification, glossary lookup, Tesseract
-Data Products         -> Streamlit, Dash, Plotly, Power BI, interactive analytics
-Security Engineering  -> MITM simulation, AES-256, Diffie-Hellman, secure communication demos
-Full Stack            -> Flask, FastAPI, React, Next.js, Vite, MongoDB, Supabase
-```
-
----
-
-## Build focus
-
-- AI products that explain decisions clearly instead of acting like black boxes.
-- Data dashboards that turn raw datasets into filters, charts, clusters, and usable insights.
-- Healthcare NLP/OCR workflows that make technical reports easier for people to understand.
-- Full-stack web apps with clean deployment, useful interfaces, and reliable data flow.
-
----
-
 ## Currently exploring
 
 - Agentic AI systems that combine retrieval, tool use, reasoning, and human approval.
