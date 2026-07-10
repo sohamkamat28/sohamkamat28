@@ -1,76 +1,89 @@
 <svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Soham Kamat - Building thoughtful software</title>
-  <desc id="desc">A refined dark editorial banner with the name Soham Kamat and a short developer tagline.</desc>
+  <title id="title">Soham Kamat - AI &amp; Data Science Undergraduate | Machine Learning Developer | Building Real-World AI Solutions</title>
+  <desc id="desc">A clean dark technical banner for Soham Kamat with an AI and data science profile tagline.</desc>
   <defs>
-    <linearGradient id="canvas" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#090909"/>
-      <stop offset="0.42" stop-color="#101114"/>
-      <stop offset="1" stop-color="#071514"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07101C"/>
+      <stop offset="0.5" stop-color="#0B1324"/>
+      <stop offset="1" stop-color="#061816"/>
     </linearGradient>
-    <linearGradient id="line" x1="170" y1="37" x2="1120" y2="316" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F5D38A"/>
-      <stop offset="0.48" stop-color="#F6F0DE"/>
-      <stop offset="1" stop-color="#68E0C4"/>
-    </linearGradient>
-    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#FFFFFF" stop-opacity="0.13"/>
-      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.02"/>
-    </linearGradient>
-    <radialGradient id="halo" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(645 168) rotate(90) scale(210 560)">
-      <stop stop-color="#F6F0DE" stop-opacity="0.16"/>
-      <stop offset="0.62" stop-color="#68E0C4" stop-opacity="0.05"/>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(810 120) rotate(90) scale(260 520)">
+      <stop stop-color="#38BDF8" stop-opacity="0.26"/>
+      <stop offset="0.52" stop-color="#2DD4BF" stop-opacity="0.08"/>
       <stop offset="1" stop-color="#000000" stop-opacity="0"/>
     </radialGradient>
-    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="10" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.95 0 0 0 0 0.83 0 0 0 0 0.55 0 0 0 0.5 0"/>
+    <radialGradient id="warmGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(192 284) rotate(90) scale(160 360)">
+      <stop stop-color="#F6C453" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="94" y1="0" x2="1004" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="0.46" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <linearGradient id="trace" x1="624" y1="70" x2="1180" y2="278" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.55" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#F6C453"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#E2E8F0" stroke-opacity="0.045"/>
+    </pattern>
+    <filter id="blur" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <filter id="nodeGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="glow"/>
+      <feColorMatrix in="glow" type="matrix" values="0 0 0 0 0.17 0 0 0 0 0.83 0 0 0 0 0.76 0 0 0 0.72 0"/>
       <feBlend in="SourceGraphic"/>
     </filter>
-    <pattern id="grain" width="140" height="140" patternUnits="userSpaceOnUse">
-      <path d="M0 139H140M139 0V140" stroke="#FFFFFF" stroke-opacity="0.035"/>
-      <circle cx="26" cy="29" r="1" fill="#FFFFFF" fill-opacity="0.08"/>
-      <circle cx="104" cy="78" r="1" fill="#FFFFFF" fill-opacity="0.06"/>
-      <circle cx="64" cy="118" r="1" fill="#FFFFFF" fill-opacity="0.05"/>
-    </pattern>
   </defs>
 
-  <rect width="1280" height="360" fill="url(#canvas)"/>
-  <rect width="1280" height="360" fill="url(#halo)"/>
-  <rect width="1280" height="360" fill="url(#grain)"/>
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <rect width="1280" height="360" fill="url(#grid)"/>
+  <rect width="1280" height="360" fill="url(#cyanGlow)"/>
+  <rect width="1280" height="360" fill="url(#warmGlow)"/>
 
-  <path d="M0 284C141 238 262 225 400 244C559 266 664 315 824 288C1008 257 1128 159 1280 173V360H0V284Z" fill="#101A18" fill-opacity="0.58"/>
-  <path d="M76 78C207 24 364 47 486 129C614 215 729 241 872 184C987 139 1082 84 1203 103" stroke="url(#line)" stroke-width="1.5" stroke-opacity="0.32"/>
-  <path d="M88 265C246 176 424 174 566 236C704 296 815 310 952 237C1055 182 1154 174 1242 207" stroke="url(#line)" stroke-width="1.5" stroke-opacity="0.24"/>
+  <path d="M0 292C136 248 269 244 412 273C582 307 724 315 890 250C1046 189 1168 198 1280 228V360H0V292Z" fill="#020617" fill-opacity="0.34"/>
+  <path d="M72 83H512" stroke="#F8FAFC" stroke-opacity="0.08"/>
+  <path d="M72 304H628" stroke="#F8FAFC" stroke-opacity="0.08"/>
 
-  <g opacity="0.85" filter="url(#softGlow)">
-    <circle cx="207" cy="42" r="3.5" fill="#F5D38A"/>
-    <circle cx="486" cy="129" r="3.5" fill="#F6F0DE"/>
-    <circle cx="872" cy="184" r="3.5" fill="#68E0C4"/>
-    <circle cx="1082" cy="84" r="3.5" fill="#F5D38A"/>
-    <circle cx="566" cy="236" r="3" fill="#F6F0DE"/>
-    <circle cx="952" cy="237" r="3" fill="#68E0C4"/>
+  <g opacity="0.72">
+    <path d="M664 88C733 58 791 78 842 130C904 193 969 195 1032 142C1086 96 1142 99 1208 132" stroke="url(#trace)" stroke-width="2" stroke-opacity="0.35"/>
+    <path d="M680 266C754 215 826 214 892 248C960 283 1027 269 1090 216C1136 176 1187 168 1236 190" stroke="url(#trace)" stroke-width="2" stroke-opacity="0.28"/>
+    <path d="M742 132L816 96L902 148L984 116L1066 166L1156 108" stroke="#E2E8F0" stroke-width="1.5" stroke-opacity="0.12"/>
+    <path d="M734 258L820 210L904 252L994 218L1088 260L1170 220" stroke="#E2E8F0" stroke-width="1.5" stroke-opacity="0.1"/>
   </g>
 
-  <g transform="translate(96 74)" opacity="0.92">
-    <rect x="0" y="0" width="214" height="214" rx="28" fill="url(#glass)" stroke="#FFFFFF" stroke-opacity="0.12"/>
-    <path d="M58 112L103 67L148 112L103 157L58 112Z" stroke="#F6F0DE" stroke-width="2" stroke-opacity="0.72"/>
-    <path d="M103 67V157M58 112H148" stroke="#68E0C4" stroke-width="1.5" stroke-opacity="0.42"/>
-    <circle cx="103" cy="112" r="10" fill="#F5D38A" fill-opacity="0.88"/>
+  <g filter="url(#nodeGlow)">
+    <circle cx="664" cy="88" r="4" fill="#38BDF8"/>
+    <circle cx="842" cy="130" r="4" fill="#2DD4BF"/>
+    <circle cx="1032" cy="142" r="4" fill="#38BDF8"/>
+    <circle cx="1208" cy="132" r="4" fill="#F6C453"/>
+    <circle cx="680" cy="266" r="3.5" fill="#38BDF8"/>
+    <circle cx="892" cy="248" r="3.5" fill="#2DD4BF"/>
+    <circle cx="1090" cy="216" r="3.5" fill="#2DD4BF"/>
+    <circle cx="1236" cy="190" r="3.5" fill="#F6C453"/>
   </g>
 
-  <g transform="translate(1006 78)" opacity="0.66">
-    <rect x="0" y="0" width="150" height="158" rx="28" fill="url(#glass)" stroke="#FFFFFF" stroke-opacity="0.09"/>
-    <path d="M36 52H114M36 80H114M36 108H114" stroke="#F6F0DE" stroke-width="1.5" stroke-linecap="round" stroke-opacity="0.46"/>
+  <g transform="translate(918 82)" opacity="0.42">
+    <rect x="0" y="0" width="220" height="156" rx="18" fill="#0F172A" fill-opacity="0.46" stroke="#E2E8F0" stroke-opacity="0.1"/>
+    <path d="M34 112L76 76L115 96L160 48L188 64" stroke="url(#trace)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M34 128H190M34 36V128" stroke="#E2E8F0" stroke-opacity="0.18" stroke-linecap="round"/>
+    <circle cx="76" cy="76" r="5" fill="#38BDF8"/>
+    <circle cx="115" cy="96" r="5" fill="#2DD4BF"/>
+    <circle cx="160" cy="48" r="5" fill="#F6C453"/>
   </g>
 
-  <g transform="translate(350 104)">
-    <text x="0" y="53" fill="#F8F5EA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="0">Soham Kamat</text>
-    <rect x="2" y="84" width="430" height="1.5" fill="url(#line)" opacity="0.86"/>
-    <text x="2" y="132" fill="#D8D4C8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="0">Building thoughtful software.</text>
+  <g transform="translate(74 91)">
+    <rect x="0" y="0" width="6" height="116" rx="3" fill="url(#accent)"/>
+    <text x="28" y="58" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="66" font-weight="800" letter-spacing="0">Soham Kamat</text>
+    <text x="30" y="110" fill="#E5EEF8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="600" letter-spacing="0">AI &amp; Data Science Undergraduate | Machine Learning Developer | Building Real-World AI Solutions</text>
+    <rect x="30" y="136" width="740" height="2" rx="1" fill="url(#accent)" opacity="0.82"/>
   </g>
 
-  <g opacity="0.2">
-    <path d="M393 286H887" stroke="#F6F0DE"/>
-    <path d="M421 302H859" stroke="#68E0C4"/>
+  <g opacity="0.16" filter="url(#blur)">
+    <circle cx="520" cy="74" r="52" fill="#38BDF8"/>
+    <circle cx="1130" cy="286" r="58" fill="#2DD4BF"/>
   </g>
 </svg>

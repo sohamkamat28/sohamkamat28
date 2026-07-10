@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Soham Kamat - Building thoughtful software" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Soham Kamat - AI &amp; Data Science Undergraduate | Machine Learning Developer | Building Real-World AI Solutions" width="100%" />
 </p>
 
 <p align="center">
