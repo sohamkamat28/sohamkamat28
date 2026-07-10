@@ -69,7 +69,7 @@ I am a B.Tech Artificial Intelligence and Data Science student at K.J. Somaiya S
 | --- | --- |
 | [MedSimplify](https://github.com/sohamkamat28/medlife) | [medlife-topaz.vercel.app](https://medlife-topaz.vercel.app) |
 | [StockSense](https://github.com/sohamkamat28/StockSense) | [stocksense-rho-ochre.vercel.app](https://stocksense-rho-ochre.vercel.app) |
-| [SpotifyDashboard](https://github.com/sohamkamat28/SpotifyDashboard) | [spotify-dashboard-one.vercel.app](https://spotify-dashboard-one.vercel.app) |
+| [SpotifyDashboard](https://github.com/sohamkamat28/SpotifyDashboard) | [spotify-trends-dashboard.streamlit.app](https://spotify-trends-dashboard.streamlit.app) |
 | [Personality Test](https://github.com/sohamkamat28/personality-test) | [personality-test-eta-seven.vercel.app](https://personality-test-eta-seven.vercel.app) |
 
 ---
