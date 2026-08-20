@@ -16,7 +16,7 @@ I am a B.Tech Artificial Intelligence and Data Science student at K.J. Somaiya S
 
 - Current focus: applied machine learning, NLP/OCR, explainable decision systems, and real-world AI workflows.
 - Strongest stack: Python, scikit-learn, Pandas, Streamlit, Dash, Flask, FastAPI, React, Next.js, SQL, and data visualization.
-- Academic signal: 9.97 CGPA in AI and Data Science, with project work across ML, BI, analytics, and product-focused AI systems.
+- Academic signal: 9.98 CGPA in AI and Data Science, with project work across ML, BI, analytics, and product-focused AI systems.
 - Builder mode: I like turning raw datasets, reports, and system logs into products people can actually use.
 
 ---
